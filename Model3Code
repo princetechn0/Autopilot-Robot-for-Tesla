@@ -1,0 +1,21 @@
+#include <Servo.h>
+
+Servo servo;
+
+void setup() {
+  // put your setup code here, to run once:
+  servo.attach(3);
+  servo.write(110);
+  delay(10000);
+  
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  servo.write(150);
+  delay(10000);
+  servo.write(110);
+  delay(10000);
+
+}
