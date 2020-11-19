@@ -25,5 +25,15 @@ Portable Charger:
 
 ## Process
 
-### 1) 
-  #### Upload the Arduino code onto the Arduino Nano Every
+### 1) Upload the Arduino code onto the Arduino Nano Every
+
+### 2) Solder the servo motor to the appropriate pins
+
+### 3) Connect the Arduino Nano Every to the Portable Charger
+
+### 4) Mount on the Tesla's Steering Wheel! 
+
+
+
+# Be safe and have fun! 
+
