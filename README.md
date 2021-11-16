@@ -1,11 +1,11 @@
 # Autopilot-Robot-for-Tesla
-A fun side project in order to learn the Arduino IDE
+Security Research Project to determine the vulnerabilities of Tesla's AutoPilot System 
 
-Youtube video on my channel: https://www.youtube.com/watch?v=lavxrgOFO48
+Demonstration: https://www.youtube.com/watch?v=lavxrgOFO48
 
 ## Concept
 
-Designing an automatic robot from cheap materials to aid the Autopilot system on Teslas. 
+Designing an inexpensive robot to override the Full Self Driving "Nag" on Tesla Vehicles.  
 
 ## Parts
 
@@ -33,7 +33,5 @@ Portable Charger:
 
 ### 4) Mount on the Tesla's Steering Wheel! 
 
-
-
-# Be safe and have fun! 
+#Intended for Research only 
 
